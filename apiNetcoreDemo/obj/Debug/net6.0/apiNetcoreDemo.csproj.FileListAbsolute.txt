@@ -1,0 +1,121 @@
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\appsettings.Development.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\appsettings.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.exe
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.deps.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.runtimeconfig.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.pdb
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.AssemblyReference.cache
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.AssemblyInfoInputs.cache
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.AssemblyInfo.cs
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.CoreCompileInputs.cache
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.MvcApplicationPartsAssemblyInfo.cs
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\staticwebassets.build.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\staticwebassets.development.json
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\scopedcss\bundle\apiNetcoreDemo.styles.css
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.CopyComplete
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\refint\apiNetcoreDemo.dll
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.pdb
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.genruntimeconfig.cache
+F:\CODE\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\ref\apiNetcoreDemo.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.exe
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.deps.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.runtimeconfig.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\apiNetcoreDemo.pdb
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.AssemblyReference.cache
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.AssemblyInfoInputs.cache
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.AssemblyInfo.cs
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\scopedcss\bundle\apiNetcoreDemo.styles.css
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.csproj.CopyComplete
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\refint\apiNetcoreDemo.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.pdb
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\apiNetcoreDemo.genruntimeconfig.cache
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\obj\Debug\net6.0\ref\apiNetcoreDemo.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\Rajesh Kumar\Downloads\netCoreApiProject\.netCoreApiProject\apiNetcoreDemo\apiNetcoreDemo\bin\Debug\net6.0\Newtonsoft.Json.dll

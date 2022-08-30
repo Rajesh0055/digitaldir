@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Zf8rUboSmYfqUGwE4EKVmzhHZppVWuQwVmpYOuQtyS0=",
+  "Source": "apiNetcoreDemo",
+  "BasePath": "_content/apiNetcoreDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
